@@ -1,4 +1,5 @@
 Virtual User Script started at: 11/4/2019 9:55:14 AM
+//change
 Starting action vuser_init.
 Web Turbo Replay of LoadRunner 12.63.0 for Windows 2012 R2; build 399 (May 14 2019 11:24:39)  	[MsgId: MMSG-26983]
 Run mode: HTML  	[MsgId: MMSG-26993]
